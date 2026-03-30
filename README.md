@@ -21,10 +21,10 @@ At the heart of everything I do is empathy. Before I touch a single pixel or wri
 I thrive on close collaboration — working hand-in-hand with developers, stakeholders, and end users to create products that don’t just look good, but truly invokes emotions.
 
 **Projects:**
-[Main Portfolio](https://marcohuman.github.io/marcohuman/)
+- [Main Portfolio](https://marcohuman.github.io/marcohuman/)
 
 **My CV**
-[CV](https://marcohuman.github.io/CVhumanmarco.github.io/)
+- [https://marcohuman.github.io/CVhumanmarco.github.io/](https://marcohuman.github.io/CVhumanmarco.github.io/)
 ---
 
 ## Skills & Tools
