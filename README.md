@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an ICT Multimedia Application Designer with a genuine passion for turning complex ideas into clean, intuitive, and delightful digital experiences. Whether it's crafting a mobile app that feels effortless to use or building an immersive web platform that draws people in, bridging the beautiful and empty space between technology and creativity.
+I'm a ICT Multimedia Application Designer with a genuine passion for turning complex ideas into clean, intuitive, and delightful digital experiences. Whether it's crafting a mobile app that feels effortless to use or building an immersive web platform that draws people in, bridging the beautiful and empty space between technology and creativity.
 
 At the heart of everything I do is empathy. Before I touch a single pixel or write a line of code, I make it my mission to deeply understand the people who will use what I’m designing. I spend time listening to users, asking questions, and putting myself in their shoes. This approach is what guides every decision I make.
 
